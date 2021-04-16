@@ -3,9 +3,9 @@
 1. Finish SHA256
 
 2. Video Encoding:
-* Test Danser 960 fps option
-* Test GT730 Encoding Speed
-* Test video split and recombine using 'Concat' FFMPEG filter
+- [ ] Test Danser 960 fps option
+- [ ] Test GT730 Encoding Speed
+- [ ] Test video split and recombine using 'Concat' FFMPEG filter
 
 ## Next:	
 1. Make Discord Bot
@@ -17,8 +17,8 @@
 * VMAF Quality test
 
 3. Encode Project
-* VMAF Quality Testing/Analysis
-* Encode
+- [ ] VMAF Quality Testing/Analysis
+- [ ] Encode
 
 ## Later:
 1. Utilize F13 on Linux?
