@@ -5,7 +5,7 @@
 2. Video Encoding:
 * Test Danser 960 fps option
 * Test GT730 Encoding Speed
-* Test split using 'Concat' FFMPEG filter
+* Test video split and recombine using 'Concat' FFMPEG filter
 
 ## Next:	
 1. Make Discord Bot
