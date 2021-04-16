@@ -1,6 +1,10 @@
 # TODO:
 ## Current:
 1. Finish SHA256
+- [ ] Make equationCompute() function more modular (be able to send 32 bits for modification) 
+- [ ] Compress msg schedule
+- [ ] Compute all 3 message blocks
+- [ ] Compute final hash
 
 2. Video Encoding:
 - [ ] Test Danser 960 fps option
