@@ -11,6 +11,12 @@
 - [ ] Test GT730 Encoding Speed
 - [ ] Test video split and recombine using 'Concat' FFMPEG filter
 
+3. Linux VM
+- [x] PCI Passthrough 
+- [ ] Memory Transfer Overclock Command
+- [ ] Fix T-Rex 20.1 Error
+- [ ] Use only CLI 
+
 ## Next:	
 1. Make Discord Bot
 
