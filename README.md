@@ -14,7 +14,7 @@
 3. Linux VM
 - [x] PCI Passthrough 
 - [ ] Memory Transfer Overclock Command
-- [ ] Fix T-Rex 20.1 Error
+- [x] Fix T-Rex 20.1 Error
 - [ ] Use only CLI 
 
 4. Fix CPU Temp
