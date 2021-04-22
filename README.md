@@ -19,7 +19,6 @@
 
 4. Fix CPU Temp
 - [ ] Clean out dust
-- [ ] Re-apply Thermal Paste
 
 ## Next:	
 1. Make Discord Bot
