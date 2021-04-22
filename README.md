@@ -16,6 +16,7 @@
 - [ ] Memory Transfer Overclock Command
 - [ ] Fix T-Rex 20.1 Error
 - [ ] Use only CLI 
+- [ ] Start up script
 
 4. Fix CPU Temp
 - [ ] Clean out dust
