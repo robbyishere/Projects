@@ -13,13 +13,13 @@
 
 3. Linux VM
 - [x] PCI Passthrough 
-- [ ] Memory Transfer Overclock Command
-- [ ] Fix T-Rex 20.1 Error
+- [x] Memory Transfer Overclock Command
+- [x] Fix T-Rex 20.1 Error
 - [ ] Use only CLI 
 - [ ] Start up script
 
 4. Fix CPU Temp
-- [ ] Clean out dust
+- [x] Clean out dust
 
 ## Next:	
 1. Make Discord Bot
