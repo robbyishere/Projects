@@ -15,6 +15,7 @@
 - [x] PCI Passthrough 
 - [x] Memory Transfer Overclock Command
 - [x] Fix T-Rex 20.1 Error
+- [ ] Overclock GPU memory
 - [ ] Use only CLI 
 - [ ] Start up script
 
