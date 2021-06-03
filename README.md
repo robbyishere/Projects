@@ -12,15 +12,8 @@
 - [ ] Test video split and recombine using 'Concat' FFMPEG filter
 
 3. Linux VM
-- [x] PCI Passthrough 
-- [x] Memory Transfer Overclock Command
-- [x] Fix T-Rex 20.1 Error
-- [ ] Overclock GPU memory
-- [ ] Use only CLI 
-- [ ] Start up script
 
-4. Fix CPU Temp
-- [x] Clean out dust
+https://github.com/robbyishere/Projects/issues/3
 
 ## Next:	
 1. Make Discord Bot
