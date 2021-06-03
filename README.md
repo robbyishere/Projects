@@ -33,3 +33,5 @@ https://github.com/robbyishere/Projects/issues/3
 
 4. Xbox One Dev Mode
 * _Needs Xbox One_
+
+5. Test PeerTalk Latency and Polling Rate
