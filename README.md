@@ -6,10 +6,9 @@
 - [ ] Compute all 3 message blocks
 - [ ] Compute final hash
 
-2. Video Encoding:
-- [ ] Test Danser 960 fps option
-- [ ] Test GT730 Encoding Speed
-- [ ] Test video split and recombine using 'Concat' FFMPEG filter
+2. Encode Project
+- [ ] VMAF Quality Testing/Analysis
+- [ ] Encode
 
 3. Linux VM
 
@@ -23,10 +22,6 @@ https://github.com/robbyishere/Projects/issues/3
 * Software Encoding
 * Very Slow Preset?
 * VMAF Quality test
-
-3. Encode Project
-- [ ] VMAF Quality Testing/Analysis
-- [ ] Encode
 
 ## Later:
 1. Utilize F13 on Linux?
