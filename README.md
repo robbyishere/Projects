@@ -9,6 +9,10 @@
 2. Encode Project
 - [ ] VMAF Quality Testing/Analysis
 - [ ] Encode
+* H.264 ONLY
+* Software Encoding
+* Very Slow Preset?
+* VMAF Quality test
 
 3. Linux VM
 
@@ -18,10 +22,6 @@ https://github.com/robbyishere/Projects/issues/3
 1. Make Discord Bot
 
 2. Osu Replay Re-encode Test
-* H.264 ONLY
-* Software Encoding
-* Very Slow Preset?
-* VMAF Quality test
 
 ## Later:
 1. Utilize F13 on Linux?
