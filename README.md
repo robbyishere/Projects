@@ -27,7 +27,7 @@ https://github.com/robbyishere/Projects/issues/3
 1. Utilize F13 on Linux?
 
 2. iPhone 12 FFMPEG Video Encoding
-* Either by using Jailbreak or custom app based on mobileFFMPEG
+* Either by using Jailbreak or custom app based on ffmpeg-kit
 
 3. Blender/Unreal Engine
 
