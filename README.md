@@ -2,6 +2,8 @@
 ## Current:
 
 1. iPhone Backup and Restore
+- [ ] Backup
+- [ ] Save Blobs
 
 2. Encode Project
 - [ ] Test VR video compatibility
