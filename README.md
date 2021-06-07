@@ -1,18 +1,14 @@
 # TODO:
 ## Current:
 
-1. iPhone Backup and Restore
-- [ ] Backup
-- [ ] Save Blobs
-
-2. Encode Project
+1. Encode Project
 - [ ] Test VR video compatibility
 
-3. Linux VM
+2. Linux VM
 
 https://github.com/robbyishere/Projects/issues/3
 
-4. Blender/Unreal Engine
+3. Blender/Unreal Engine
 - [ ] House Project
 
 
