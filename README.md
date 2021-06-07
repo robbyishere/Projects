@@ -8,7 +8,11 @@
 
 https://github.com/robbyishere/Projects/issues/3
 
-3. Blender/Unreal Engine
+3. MacOS VM
+- [ ] Setup
+- [ ] Install Xcode
+
+4. Blender/Unreal Engine
 - [ ] House Project
 
 
