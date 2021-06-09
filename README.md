@@ -1,8 +1,8 @@
 # TODO:
 ## Current:
 
-1. Encode Project
-- [ ] Test VR video compatibility
+1. Networking in C++
+- [ ] Find networking library (https://github.com/ValveSoftware/GameNetworkingSockets)
 
 2. Linux VM
 
