@@ -2,7 +2,9 @@
 ## Current:
 
 1. Networking in C++
-- [ ] Find networking library (https://github.com/ValveSoftware/GameNetworkingSockets)
+- [x] Find networking library
+- [ ] Try to integrate library (https://github.com/ValveSoftware/GameNetworkingSockets)
+- [ ] Make test program
 
 2. Linux VM
 
