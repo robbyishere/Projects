@@ -25,8 +25,8 @@ https://github.com/robbyishere/Projects/issues/3
 
 2. Make Discord Bot
 
-3. iPhone 12 FFMPEG Video Encoding
-* Either by using Jailbreak or custom app based on ffmpeg-kit
+3. iPhone 12 Video Encoding
+* Custom app based on ffmpeg-kit or AVFoundation
 
 4. Test PeerTalk Latency and Polling Rate
 
