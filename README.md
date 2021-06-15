@@ -10,12 +10,8 @@
 
 https://github.com/robbyishere/Projects/issues/3
 
-3. MacOS VM
-- [x] Setup
-- [x] Install Xcode
-- [ ] Export Godot Project to iPhone
 
-4. Blender/Unreal Engine
+3. Blender/Unreal Engine
 - [ ] Research Photogrammetry (https://github.com/alicevision/meshroom)
 - [ ] House Project
 
