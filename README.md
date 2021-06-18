@@ -1,19 +1,18 @@
 # TODO:
 ## Current:
 
-1. Networking in C++
-- [x] Find networking library
-- [ ] Try to integrate library (https://github.com/ValveSoftware/GameNetworkingSockets)
-- [ ] Make test program
+1. Game Development
+- [ ] Make environment in Blender (EEVEE Rendering)
+- [ ] Import to Godot
 
 2. Linux VM
 
 https://github.com/robbyishere/Projects/issues/3
 
 
-3. Blender/Unreal Engine
+3. House Project
 - [ ] Research Photogrammetry (https://github.com/alicevision/meshroom)
-- [ ] House Project
+- [ ] Finish Layout in Blender
 
 
 ## Ideas:
@@ -34,3 +33,8 @@ https://github.com/robbyishere/Projects/issues/3
 - [ ] Compress msg schedule
 - [ ] Compute all 3 message blocks
 - [ ] Compute final hash
+
+7. Networking in C++
+- [x] Find networking library
+- [ ] Try to integrate library (https://github.com/ValveSoftware/GameNetworkingSockets)
+- [ ] Make test program
