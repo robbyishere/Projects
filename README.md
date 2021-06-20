@@ -14,6 +14,9 @@ https://github.com/robbyishere/Projects/issues/3
 - [ ] Research Photogrammetry (https://github.com/alicevision/meshroom)
 - [ ] Finish Layout in Blender
 
+4. VMAF Speed Test
+- [ ] Find speed of computation using FFMPEG directly
+
 
 ## Ideas:
 1. Utilize F13 on Linux?
