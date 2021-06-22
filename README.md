@@ -42,3 +42,5 @@
 - [x] Find networking library
 - [ ] Try to integrate library (https://github.com/ValveSoftware/GameNetworkingSockets)
 - [ ] Make test program
+
+8. Learn Solidity (Ethereum)
