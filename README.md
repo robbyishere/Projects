@@ -1,14 +1,14 @@
 # TODO:
 ## Current:
 
-1. Linux
+1. Game Development
+- [ ] Make environment in Blender (EEVEE Rendering)
+- [ ] Import to Godot
+
+2. Linux
 - [ ] Stub PCIE Devices
 - [ ] Setup Arch VM with X.org
 - [ ] Setup Samba Server
-
-2. Game Development
-- [ ] Make environment in Blender (EEVEE Rendering)
-- [ ] Import to Godot
 
 3. House Project
 - [ ] Research Photogrammetry (https://github.com/alicevision/meshroom)
