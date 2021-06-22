@@ -5,10 +5,10 @@
 - [ ] Make environment in Blender (EEVEE Rendering)
 - [ ] Import to Godot
 
-2. Linux VM
-
-https://github.com/robbyishere/Projects/issues/3
-
+2. Linux
+- [ ] Stub PCIE Devices
+- [ ] Setup Arch VM with X.org
+- [ ] Setup Samba Server
 
 3. House Project
 - [ ] Research Photogrammetry (https://github.com/alicevision/meshroom)
