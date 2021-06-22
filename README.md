@@ -17,9 +17,7 @@ https://github.com/robbyishere/Projects/issues/3
 4. VMAF Speed Test
 - [ ] Find speed of computation using FFMPEG directly
 
-5. Record 960fps in osu! replays
-- [ ] Replicate Danser settings from https://ordr.issou.best/
-
+5. Create settings to generate osu! Replays
 
 ## Ideas:
 1. Utilize F13 on Linux?
