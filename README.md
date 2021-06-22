@@ -44,3 +44,5 @@
 - [ ] Make test program
 
 8. Learn Solidity (Ethereum)
+
+9. Host devETH Node 
