@@ -7,11 +7,7 @@ Packages installed:
 
 
 `nvidia`
-
-
 `xinit`
-
-
 `xterm`
 
 
