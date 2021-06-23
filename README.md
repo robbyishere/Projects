@@ -8,8 +8,9 @@
 2. Linux
 - [x] Stub PCIE Devices
 - [x] Setup Arch VM with X.org
+- [x] Find Git Solution (git-cola for now)
 - [ ] Setup Samba Server
-- [ ] Find Git Solution (Either git credential helper or git client)
+
 
 3. House Project
 - [ ] Research Photogrammetry (https://github.com/alicevision/meshroom)
