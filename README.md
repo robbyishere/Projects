@@ -9,7 +9,9 @@
 - [x] Stub PCIE Devices
 - [x] Setup Arch VM with X.org
 - [x] Find Git Solution (git-cola for now)
+- [ ] Add Nvidia commands to script
 - [ ] Setup Samba Server
+- [ ] Setup 2nd Arch VM
 
 
 3. House Project
