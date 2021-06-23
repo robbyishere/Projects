@@ -6,8 +6,8 @@
 - [ ] Import to Godot
 
 2. Linux
-- [ ] Stub PCIE Devices
-- [ ] Setup Arch VM with X.org
+- [x] Stub PCIE Devices
+- [x] Setup Arch VM with X.org
 - [ ] Setup Samba Server
 
 3. House Project
