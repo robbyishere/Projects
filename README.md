@@ -9,6 +9,7 @@
 - [x] Stub PCIE Devices
 - [x] Setup Arch VM with X.org
 - [x] Find Git Solution (git-cola for now)
+- [ ] Fix lm-sensors
 - [ ] Add Nvidia commands to script
 - [ ] Setup Samba Server
 - [ ] Setup 2nd Arch VM
