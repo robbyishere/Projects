@@ -9,8 +9,8 @@
 - [x] Stub PCIE Devices
 - [x] Setup Arch VM with X.org
 - [x] Find Git Solution (git-cola for now)
+- [x] Control Arch VM without external keyboard and mouse (SSH)
 - [ ] Git Authentication
-- [ ] Control Arch VM without external keyboard and mouse (SSH)
 - [ ] Fix lm-sensors
 - [ ] Add Nvidia commands to script
 - [ ] Setup Samba Server
