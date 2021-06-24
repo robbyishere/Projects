@@ -11,7 +11,7 @@
 - [x] Find Git Solution (git-cola for now)
 - [x] Control Arch VM without external keyboard and mouse (SSH)
 - [x] Fix lm-sensors (used zenpower3 instead)
-- [ ] Git Authentication
+- [x] Git Authentication
 - [ ] Setup Samba Server
 - [ ] Setup 2nd Arch VM
 
