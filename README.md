@@ -12,7 +12,6 @@
 - [x] Control Arch VM without external keyboard and mouse (SSH)
 - [ ] Git Authentication
 - [ ] Fix lm-sensors
-- [ ] Add Nvidia commands to script
 - [ ] Setup Samba Server
 - [ ] Setup 2nd Arch VM
 
