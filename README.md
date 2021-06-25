@@ -53,3 +53,5 @@
 8. Learn Solidity (Ethereum)
 
 9. Host devETH Node 
+
+10. Learn Godot's GPU pipeline to try integrate AMD FSR
