@@ -12,7 +12,7 @@
 - [x] Control Arch VM without external keyboard and mouse (SSH)
 - [x] Fix lm-sensors (used zenpower3 instead)
 - [x] Git Authentication
-- [ ] Fix virt-manager Networking
+- [x] Fix virt-manager Networking
 - [ ] Setup Samba Server
 - [ ] Setup 2nd Arch VM
 
