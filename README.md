@@ -5,7 +5,16 @@
 - [ ] Make environment in Blender (EEVEE Rendering)
 - [ ] Import to Godot
 
-2. Linux
+2. House Project
+- [ ] Research Photogrammetry (https://github.com/alicevision/meshroom)
+- [ ] Finish Layout in Blender
+
+3. VMAF Speed Test
+- [ ] Find speed of computation using FFMPEG directly
+
+## Later:
+
+1. Linux
 - [x] Stub PCIE Devices
 - [x] Setup Arch VM with X.org
 - [x] Find Git Solution (git-cola for now)
@@ -13,18 +22,10 @@
 - [x] Fix lm-sensors (used zenpower3 instead)
 - [x] Git Authentication
 - [x] Fix virt-manager Networking
-- [ ] Setup Samba Server
-- [ ] Setup 2nd Arch VM
+- [ ] Setup Samba Server (After finish setting up new router)
+- [ ] Setup 2nd Arch VM (After July 4th)
 
-
-3. House Project
-- [ ] Research Photogrammetry (https://github.com/alicevision/meshroom)
-- [ ] Finish Layout in Blender
-
-4. VMAF Speed Test
-- [ ] Find speed of computation using FFMPEG directly
-
-5. Create settings to generate osu! Replays
+2. Create settings to generate osu! Replays
 
 ## Ideas:
 1. Utilize F13 on Linux?
@@ -54,4 +55,4 @@
 
 9. Host devETH Node 
 
-10. Learn Godot's GPU pipeline to try integrate AMD FSR
+10. Learn Godot's GPU pipeline to try integrate AMD FSR (https://github.com/godotengine/godot-proposals/issues/2809)
