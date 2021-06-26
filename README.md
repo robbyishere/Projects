@@ -12,6 +12,10 @@
 3. VMAF Speed Test
 - [ ] Find speed of computation using FFMPEG directly
 
+4. Raspberry Pi
+- [ ] Setup Raspbian
+- [ ] Install Pi-hole
+
 ## Later:
 
 1. Linux
