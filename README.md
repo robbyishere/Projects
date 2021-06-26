@@ -13,6 +13,7 @@
 - [ ] Find speed of computation using FFMPEG directly
 
 4. Raspberry Pi
+- [ ] Backup Data
 - [ ] Setup Raspbian
 - [ ] Install Pi-hole
 
