@@ -55,4 +55,4 @@
 
 9. Host devETH Node 
 
-10. Learn Godot's GPU pipeline to try integrate AMD FSR (https://github.com/godotengine/godot-proposals/issues/2809)
+10. Learn Godot's GPU pipeline (Vulkan) to try integrate AMD FSR (https://github.com/godotengine/godot-proposals/issues/2809)
