@@ -12,9 +12,7 @@
 3. VMAF Speed Test
 - [ ] Find speed of computation using FFMPEG directly
 
-## Later:
-
-1. Linux
+4. Linux
 - [x] Stub PCIE Devices
 - [x] Setup Arch VM with X.org
 - [x] Find Git Solution (git-cola for now)
@@ -25,7 +23,12 @@
 - [ ] Setup Samba Server (After finish setting up new router)
 - [ ] Setup 2nd Arch VM (After July 4th)
 
-2. Create settings to generate osu! Replays
+5. Raspberry Pi
+- [ ] Fix Pi-Hole
+
+## Later:
+
+1. Create settings to generate osu! Replays
 
 ## Ideas:
 1. Utilize F13 on Linux?
