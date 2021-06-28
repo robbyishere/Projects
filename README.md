@@ -20,7 +20,7 @@
 - [x] Fix lm-sensors (used zenpower3 instead)
 - [x] Git Authentication
 - [x] Fix virt-manager Networking
-- [ ] Setup Samba Server (After finish setting up new router)
+- [x] Setup Samba Server
 - [ ] Setup 2nd Arch VM (After July 4th)
 
 5. Raspberry Pi
