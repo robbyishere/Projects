@@ -25,7 +25,8 @@
 
 5. Raspberry Pi
 - [x] Fix Pi-Hole
-- [ ] Setup Recursive DNS
+- [x] Setup Recursive DNS
+- [ ] Setup DNS over HTTPS
 
 ## Later:
 
