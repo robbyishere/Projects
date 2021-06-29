@@ -24,7 +24,8 @@
 - [ ] Setup 2nd Arch VM (After July 4th)
 
 5. Raspberry Pi
-- [ ] Fix Pi-Hole
+- [x] Fix Pi-Hole
+- [ ] Setup Recursive DNS
 
 ## Later:
 
