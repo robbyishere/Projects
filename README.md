@@ -9,10 +9,8 @@
 - [ ] Research Photogrammetry (https://github.com/alicevision/meshroom)
 - [ ] Finish Layout in Blender
 
-3. VMAF Speed Test
-- [ ] Find speed of computation using FFMPEG directly
 
-4. Linux
+3. Linux
 - [x] Stub PCIE Devices
 - [x] Setup Arch VM with X.org
 - [x] Find Git Solution (git-cola for now)
@@ -63,4 +61,6 @@
 10. Learn Godot's GPU pipeline (Vulkan) to try integrate AMD FSR (https://github.com/godotengine/godot-proposals/issues/2809)
 
 11. AI Training
+
+12. Improve VMAF Speed 
 
