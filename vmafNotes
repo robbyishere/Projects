@@ -3,5 +3,5 @@ ffmpeg
     -i %CLIP1%
     -lavfi "[0:v]setpts=PTS-STARTPTS[reference]; 
             [1:v]setpts=PTS-STARTPTS[distorted]; 
-            [distorted][reference]libvmaf=log_fmt=xml:log_path="C\:/Users/PC/Documents/ffmpeg-4.4-essentials_build/bin/out"%LOGPATH%":n_threads=12" 
+            [distorted][reference]libvmaf=log_fmt=xml:log_path="C\:/Users/PC/Documents/ffmpeg-4.4-essentials_build/bin/":model_path:"%LOGPATH%":n_threads=12" 
     -f null -
