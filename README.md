@@ -21,11 +21,6 @@
 - [x] Setup Samba Server
 - [ ] Setup 2nd Arch VM (After July 4th)
 
-5. Raspberry Pi
-- [x] Fix Pi-Hole
-- [x] Setup Recursive DNS
-- [ ] Setup DNS over HTTPS
-
 ## Later:
 
 1. Create settings to generate osu! Replays
