@@ -9,8 +9,17 @@
 - [ ] Research Photogrammetry (https://github.com/alicevision/meshroom)
 - [ ] Finish Layout in Blender
 
+3. Finish SHA256
+- [ ] Make equationCompute() function more modular (be able to send 32 bits for modification) 
+- [ ] Compress msg schedule
+- [ ] Compute all 3 message blocks
+- [ ] Compute final hash
 
-3. Linux
+## Later:
+
+1. Create settings to generate osu! Replays
+
+2. Linux
 - [x] Stub PCIE Devices
 - [x] Setup Arch VM with X.org
 - [x] Find Git Solution (git-cola for now)
@@ -20,10 +29,6 @@
 - [x] Fix virt-manager Networking
 - [x] Setup Samba Server
 - [ ] Setup 2nd Arch VM (After July 4th)
-
-## Later:
-
-1. Create settings to generate osu! Replays
 
 ## Ideas:
 1. Utilize F13 on Linux?
@@ -38,24 +43,18 @@
 5. Xbox One Dev Mode
 * _Needs Xbox One_
 
-6. Finish SHA256
-- [ ] Make equationCompute() function more modular (be able to send 32 bits for modification) 
-- [ ] Compress msg schedule
-- [ ] Compute all 3 message blocks
-- [ ] Compute final hash
-
-7. Networking in C++
+6. Networking in C++
 - [x] Find networking library
 - [ ] Try to integrate library (https://github.com/ValveSoftware/GameNetworkingSockets)
 - [ ] Make test program
 
-8. Learn Solidity (Ethereum)
+7. Learn Solidity (Ethereum)
 
-9. Host devETH Node 
+8. Host devETH Node 
 
-10. Learn Godot's GPU pipeline (Vulkan) to try integrate AMD FSR (https://github.com/godotengine/godot-proposals/issues/2809)
+9. Learn Godot's GPU pipeline (Vulkan) to try integrate AMD FSR (https://github.com/godotengine/godot-proposals/issues/2809)
 
-11. AI Training
+10. AI Training
 
-12. Improve VMAF Speed 
+11. Improve VMAF Speed 
 
