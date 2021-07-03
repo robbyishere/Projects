@@ -30,7 +30,7 @@
 - [x] Fix virt-manager Networking
 - [x] Setup Samba Server
 - [ ] Setup 2nd Arch VM (After July 4th)
-- [ ] Learn transmission-cli
+- [ ] Install Chromium, Transmission, and File Explorer
 
 ## Ideas:
 1. Utilize F13 on Linux?
