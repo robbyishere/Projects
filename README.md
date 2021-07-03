@@ -10,7 +10,7 @@
 - [ ] Finish Layout in Blender
 
 3. Finish SHA256
-- [ ] Verify Code
+- [ ] Verify Computations (Constants, Initial Hash Values, equationCompute)
 - [ ] Make equationCompute() function more modular (be able to send 32 bits for modification)
 - [ ] Compress msg schedule
 - [ ] Compute all 3 message blocks
