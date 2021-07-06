@@ -56,3 +56,4 @@
 
 11. Improve VMAF Speed 
 
+12. Learn CUDA
