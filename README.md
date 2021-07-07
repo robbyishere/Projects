@@ -12,6 +12,8 @@
 3. Finish Bitcoin Miner
 - [ ] Integrate Miner with SHA256
 
+4. Backup Data off hard drive
+
 ## Later:
 
 1. Create settings to generate osu! Replays
