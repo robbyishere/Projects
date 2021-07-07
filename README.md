@@ -9,8 +9,8 @@
 - [ ] Research Photogrammetry (https://github.com/alicevision/meshroom)
 - [ ] Finish Layout in Blender
 
-3. Finish SHA256
-- [ ] Fix incorrect output
+3. Finish Bitcoin Miner
+- [ ] Integrate Miner with SHA256
 
 ## Later:
 
@@ -25,7 +25,7 @@
 - [x] Git Authentication
 - [x] Fix virt-manager Networking
 - [x] Setup Samba Server
-- [ ] Setup 2nd Arch VM (After July 4th)
+- [ ] Setup 2nd Arch VM 
 - [ ] Install xinit, Chromium, Transmission, and File Explorer
 
 ## Ideas:
