@@ -9,8 +9,7 @@
 - [ ] Research Photogrammetry (https://github.com/alicevision/meshroom)
 - [ ] Finish Layout in Blender
 
-3. Finish Bitcoin Miner
-- [ ] Integrate Miner with SHA256
+3. Learn Verilog
 
 4. Backup Data off hard drive
 
