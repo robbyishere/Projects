@@ -13,6 +13,8 @@
 
 4. Backup Data off hard drive
 
+5. Optimize Bitcoin Miner
+
 ## Later:
 
 1. Create settings to generate osu! Replays
@@ -33,7 +35,7 @@
 1. Utilize F13 on Linux?
 
 2. Make Discord Bot
-
+- [ ] Notification when someone joins voice channel
 3. iPhone 12 Video Encoding
 * Custom app based on ffmpeg-kit or AVFoundation
 
