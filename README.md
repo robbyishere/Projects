@@ -55,8 +55,11 @@
 
 9. Learn Godot's GPU pipeline (Vulkan) to try integrate AMD FSR (https://github.com/godotengine/godot-proposals/issues/2809)
 
-10. AI Training
+10. AI Training (CPU and CUDA)
 
 11. Improve VMAF Speed 
 
 12. Learn CUDA
+
+13. Predictable video encoding file sizes
+- [ ] Set max bitrate
