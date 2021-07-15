@@ -63,3 +63,5 @@
 
 13. Predictable video encoding file sizes
 - [ ] Set max bitrate
+
+14. Use Discord Game SDK for custom Rich Presence (https://discord.com/developers/docs/game-sdk/)
