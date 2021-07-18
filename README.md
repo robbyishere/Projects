@@ -36,32 +36,32 @@
 
 2. Make Discord Bot
 - [ ] Notification when someone joins voice channel
-3. iPhone 12 Video Encoding
-* Custom app based on ffmpeg-kit or AVFoundation
+3. iPhone Projects
+- [ ] Video encoding app based on ffmpeg-kit or AVFoundation
+- [ ] Test PeerTalk Latency and Polling Rate
+- [ ] Extend PC Display with HDR support
 
-4. Test PeerTalk Latency and Polling Rate
-
-5. Xbox One Dev Mode
+4. Xbox One Dev Mode
 * _Needs Xbox One_
 
-6. Networking in C++
+5. Networking in C++
 - [x] Find networking library
 - [ ] Try to integrate library (https://github.com/ValveSoftware/GameNetworkingSockets)
 - [ ] Make test program
 
-7. Learn Solidity (Ethereum)
+6. Learn Solidity (Ethereum)
 
-8. Host devETH Node 
+7. Host devETH Node 
 
-9. Learn Godot's GPU pipeline (Vulkan) to try integrate AMD FSR (https://github.com/godotengine/godot-proposals/issues/2809)
+8. Learn Godot's GPU pipeline (Vulkan) to try integrate AMD FSR (https://github.com/godotengine/godot-proposals/issues/2809)
 
-10. AI Training (CPU and CUDA)
+9. AI Training (CPU and CUDA)
 
-11. Improve VMAF Speed 
+10. Improve VMAF Speed 
 
-12. Learn CUDA
+11. Learn CUDA
 
-13. Predictable video encoding file sizes
+12. Predictable video encoding file sizes
 - [ ] Set max bitrate
 
-14. Use Discord Game SDK for custom Rich Presence (https://discord.com/developers/docs/game-sdk/)
+13. Use Discord Game SDK for custom Rich Presence (https://discord.com/developers/docs/game-sdk/)
