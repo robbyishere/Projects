@@ -13,7 +13,7 @@
 
 4. Backup Data off hard drive
 
-5. Optimize Bitcoin Miner
+5. Try out Magpie (https://github.com/Blinue/Magpie)
 
 ## Later:
 
